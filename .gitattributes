@@ -1,2 +1,10 @@
-*.sql linguist-language=SQL
-*.md linguist-language=Markdown
+*.sql linguist-language=SQL linguist-detectable=true
+
+*.md linguist-documentation
+docs/** linguist-documentation
+
+*.png binary linguist-documentation
+*.pdf binary linguist-documentation
+
+.DS_Store linguist-vendored
+**/.DS_Store linguist-vendored
