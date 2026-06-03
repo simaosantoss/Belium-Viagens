@@ -9,7 +9,7 @@
 
 **BeLIUM Viagens** is a MySQL database project developed for the **Databases** course, a 2nd-year, 1st-semester course in the Software Engineering degree at the University of Minho.
 
-The project models a fictional travel archive for **CeSIUM** (*Núcleo de Estudantes de Informática da Universidade do Minho*), the Computer Science Students' Association at the University of Minho, where members can register trips, stops, sponsors, feedback, reactions, photos, and financial support.
+The project models a fictional travel archive for **CeSIUM** (*Centro de Estudantes de Engenharia Informática da Universidade do Minho*), the Computer Science Students' Association at the University of Minho, where members can register trips, stops, sponsors, feedback, reactions, photos, and financial support.
 
 The submitted project report is available in [`docs/thesis/belium-thesis.pdf`](./docs/thesis/belium-thesis.pdf).
 
