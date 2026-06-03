@@ -1,6 +1,5 @@
 # ✈️ BeLIUM Viagens
 
-![Status](https://img.shields.io/badge/status-academic%20project-blue)
 ![Database](https://img.shields.io/badge/database-MySQL-4479A1)
 ![Language](https://img.shields.io/badge/language-SQL-336791)
 ![Course](https://img.shields.io/badge/course-Databases-orange)
