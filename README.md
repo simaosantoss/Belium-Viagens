@@ -336,6 +336,8 @@ The schema enforces several data-quality rules directly in the database:
 
 ## 👥 Authors
 
+Made with ❤️ by:
+
 | Name | GitHub |
 |---|---|
 | [Bruno Magalhães](https://github.com/Brumag777) | `@Brumag777` |
